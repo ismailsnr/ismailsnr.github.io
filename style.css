@@ -42,7 +42,7 @@ body {
   font-size: 30px;
 }
 .paper.heart p {
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
   
 }
@@ -58,7 +58,7 @@ img {
 
 .paper.heart::after {
   content: "";
-  background-image: url('https://r.resimlink.com/J0i53SkYfa8F.png');
+  background-image: url('');
   width: 100%;
   height: 100%;
   position: absolute;
